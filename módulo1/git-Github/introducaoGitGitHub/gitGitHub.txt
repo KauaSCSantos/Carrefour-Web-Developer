@@ -1,0 +1,87 @@
+SHA1: (Secure Hash algoritm / Algoritmo de Hash Seguro) = encripitação com conjunto de 40 
+caracteres.
+
+Blobs: Tipo, tamanho, \0 e conteúdo do arquivo
+
+Tree: Aponta para os blobs ou outras Trees, SHA e nome do arquivo e SHA de outras árvores (uma mudança no arquivo
+pode modificar todas as Trees)
+
+Commit: Objeto que junta tudo, aponta para uma Tree, Parente(último commit realizado antes dele), aponta para um autor
+e para uma mensagem, e marcam o horário da edição, e também possuí um SHA onde uma única edição pode modificar todo o código. 
+Serve para escrever uma mensagem que explique aquele monte de arquivos que estão dentro das Trees
+e Blobs.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+Chave SSH: Forma de estabelecer uma conexão segura entre duas máquinas (cliente / servidor)
+
+Token de acesso pessoal: (Serve como um substituto da senha, possuindo um tempo de expiração)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+-a: mostra arquivos ocultos
+--global: aplica o comando em todos repositórios
+mv (arquivo) ./(repositório): move um arquivo que está dentro de um repositório para outro repositório
+echo: apresenta um texto na tela do terminal
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+git init: inicia um repositório
+
+git config: fornece as informações necessárias para o git (email e nome do usuário)
+
+git add: adiciona um arquivo que será exibido (untracked / unmodified / modified --> Staged) (sobe o estágio do arquivo)
+
+git commit -m "": Gera uma explicação do que foi feito no código (mostra o ínicio do SHA1, nome do arquivo, etc.) (tira uma foto do código
+naquele exato momento)
+
+git config --list: lista todas as configurações do seu git (até seu nome de usuário e email)
+
+git remote add origin (link do diretório): prepara para "empurrar" seu repositório local para o repositório remoto.
+
+git push origin master: "empurra" seu repositório local para o repositório remoto.
+
+Markdown: Forma mais humana e simples de se escrever um arquivo html. (.md)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+Untracked: Arquivos não rastreados/sem ciência pelo git
+
+Tracked: Arquivos que o git possui ciência.
+
+Unmodified: Arquivo que ainda não foi modificado
+Modified: Arquivo não modificado que foi modificado e passou automaticamente para modified
+Staged: "Lugar onde ficam os arquivos que estão se preparando para serem exibidos"
+
+Após usar o commit: todos os arquivos inseridos nesse commit voltam para unmodified, reiniciando o ciclo.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+Servidor e Ambiente de Desenvolvimento:
+
+Ambiente de Desenvolvimento:
+
+Working Directory e Staging Area: Onde os arquivos modificados e não modificados circulam na sua máquina.
+
+Local Repository: Lugar onde os arquivos vão após serem "commitados", e podem ser "empurrados para um repositório remoto"
+
+Servidor:
+
+Remote Repository: "Servidor / Site que armazena os seus commits"
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+Resolvendo conflitos:
+
+Conflitos acontecem quando alguém "empurra" uma versão modificada do seu repositório para o mesmo lugar de referência que,
+você. Então o git explica que a sua tentativa de "empurrar" falhou, e que você deve integrar (pull / puxar) essas modificações para
+o seu repositório, para aí sim "empurrar" suas modificações para o repositório remoto.
+
+git pull origin master: puxa para sua máquina local os arquivos que estão em conflito, e diz qual o tipo de conflito
+
+Geralmente, quando se abre o arquivo conflitante, o git tenta facilitar, mostrando através de símbolos / marcações, quais alterações
+estão "corretas" e quais precisam de modificação.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+pasta .git/ : Pasta que possui todo o versionamento de código e pra onde esse repositório está apontado
