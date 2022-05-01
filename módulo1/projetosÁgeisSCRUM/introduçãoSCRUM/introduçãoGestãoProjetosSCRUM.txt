@@ -1,0 +1,66 @@
+Objetivos de Negócio --> Requisitos --> Processo de Desenvolvimento --> Software
+					Concepção
+					Análise & Design
+					Desenvolvimento
+					Testes
+					Implantação
+
+------------------------------------------------------------------------------------
+
+Gestão de Projetos: Tradicional x Ágil
+
+Tradicional (Waterfall / Cascata): Só permite que o projeto avance quando uma fase está inteiramente completa.
+
+-- Demanda muito tempo
+-- Muita discussão
+-- Escopo definido na fase inicial do Projeto (Preditivo)
+-- Controlado por fases e marcos
+-- Cliente só vê o software funcionando na fase final
+-- Resistente a mudanças
+
+Ágil: Software construído por partes (incremental) e cada parte executa-se em um ciclo (iterativo)
+
+-- Escopo definido ao longo do Projeto (Adaptativo)
+-- Projeto é controlado por funcionalidades entregues
+-- Cliente vê parte do software funcionando na fase inicial
+-- Mudanças constantes de acordo com opiniões contínuas
+
+------------------------------------------------------------------------------------
+
+"Ágil é diferente de Rápido"
+
+Ágil: Ter capacidade de responder rapidamente a mudanças
+
+-- Rapidez (mudança) e desembaraço (se tiver que mudar, será mudado no próximo ciclo)
+-- Fazer coisas complexas de forma simples (priorizar e dividir as partes complexas)
+-- Equipe comprometida com os objetivos (poder ver o projeto se desenvolvendo e arrumar qualquer problema que surja)
+-- Maior valor para o cliente (construção mais rápida, para o cliente usar mais rápidamente)
+
+------------------------------------------------------------------------------------
+
+SCRUM
+
+É um framework de gerenciamento de projetos ágeis
+Projetos usando equipes pequenas e multidisciplinares produzem os melhores resultados
+
+Pilares: Transparência, Adaptação, Inspenção
+
+Transparência:
+
+Conversar mais, escrever menos
+Demonstrar o software constantemente ao usuário e obter feedbacks constantes
+
+Adaptação:
+
+Requisitos mudam ao longo do tempo
+
+Inspenção:
+
+Aprender progressivamente com o uso do software
+
+------------------------------------------------------------------------------------
+
+
+
+
+					

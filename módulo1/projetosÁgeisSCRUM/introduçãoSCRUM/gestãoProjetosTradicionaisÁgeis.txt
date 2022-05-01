@@ -1,0 +1,19 @@
+Diferença Prática
+
+nubank
+
+Na Gestão de Projetos Tradicional:
+
+Pensar nas funções que seriam incrementadas no
+projeto (programa de benefício, funcionalidades do cartão, 
+conta digital, abertura de conta...)
+
+Se fossem planejar tudo que foi imaginado, além de demandar
+muito tempo, grande parte das ideias não seriam realmente
+adicionadas.
+
+Na Gestão de Projetos Ágil:
+
+É lançado ao público o Mínimo Produto Viável (produto com mínimo
+esforço de desenvolvimento, usabilidade), onde esse mesmo produto
+vai sendo aprimorado e adaptado de acordo com o feedback dos usuários

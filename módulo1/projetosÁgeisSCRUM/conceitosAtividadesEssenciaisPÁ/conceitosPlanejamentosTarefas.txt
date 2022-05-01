@@ -1,0 +1,54 @@
+Estória X Tarefas
+
+(Exemplo)
+
+Objetivo do projeto: Bicicleta
+
+O objetivo macro é dividido em objetivos menores, gerando um conjunto de épicos.
+
+Onde o projeto "Bicicleta", é um conjunto de épicos (sistema de freio, de tração, quadro
+garfo, rodas...)
+
+E as estórias são os detalhamentos de cada épico, como o garfo da bicicleta, que possui
+a estória guidão, amortecedor e o próprio garfo. Ou o pedal que é uma estória do sistema
+de tração.
+
+E para a realização das estórias surgem tarefas que devem ser concluidas para obtermos um
+produto utilizável.
+
+Exemplo: 
+
+Para realizarmos a estória garfo precisamos montar o guidão, montar o garfo, montar o garfo
+no quadro, montar o garfo na roda e etc.
+
+-----------------------------------------------------------------------------------------------
+
+Épico --> Estória --> Tarefas --> (atividades)
+
+Onde (--> = conjunto de...)
+
+Tarefas: Conjunto de atividades que o time de desenvolvimento deve desempenhar
+para entregar a estória.
+
+-----------------------------------------------------------------------------------------------
+
+Critério de Aceite: (Lista de critérios para que a estória atenda aos requisitos do cliente)
+
+Lista de critérios que precisam ser alcançados para que a User Story atenda os requisitos do 
+usuário e seja aceita pelo PO
+Possui os objetivos de: Definir limites para as user stories. Ajudar o PO a detalhar em alto
+nível o que é necessário para entregar valor ao cliente.
+
+Planning Poker: (Uma atividade de mensuração do esforço e complexidade das tarefas ou estórias)
+
+-----------------------------------------------------------------------------------------------
+
+Cliente / Stakeholder: 
+
+É uma pessoa ou grupo que legitima as ações de uma organização e que tem papel direto ou indireto
+na gestão e resultados da mesma. Podendo ser afetado positiva ou negativamente, dependendo das suas
+políticas e forma de atuação.
+
+Exemplos de Stakeholder: Funcionários, gestores, gerentes, proprietários, fornecedores, e diversas
+pessoas ou empresas relacionadas com o projeto.
+

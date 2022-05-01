@@ -1,0 +1,39 @@
+Daily e Retrospectiva:
+
+Daily: (Tarefas diárias)
+Dev team
+
+Reuniões diárias, para saber o que cada um está fazendo, onde
+a presença do SM e do PO não são obrigatórias.
+
+Retrospective: (Sprint como um todo)
+Dev team e SM 
+
+Reunião após a sprint, sendo relacionada ao que foi bom e ruim, que se deve
+melhorar ou não fazer, e que o pode ser feito na próxima sprint.
+
+----------------------------------------------------------------------------------
+
+Refinamento:
+Todo o time SCRUM
+
+Cerimônia não oficial, onde é discutido entre o time dev e o PO como será a próxima
+sprint, quais serão os entregáveis, e adiantar possiveis dúvidas que possivelmente
+apareceriam na planning. Visa aumentar o entendimento da demanda por parte do time, 
+melhorar a qualidade da entrega e aumentar o retorno esperado para o projeto.
+
+----------------------------------------------------------------------------------
+
+Review: 		(Ver o que está sendo entregue, validar se está de acordo com o pedido, se houve
+Todo o time SCRUM	mudanças no fluxo, bater com o que foi definido no refinamento e planning, E PRICIPALMENTE
+			se agrega valor ao negócio)
+
+Apresentado pelo time de desenvolvimento, onde mostram o trabalho feito por cada um,
+podendo tirar qualquer dúvida técnica que o público presente tenha em relação a solução.
+Dúvidas relacionadas a negócios, continuam sendo realizadas pelo PO. Podem participar
+todos os interessados na entrega, como stakeholders, demandantes diretos, líderes técnicos
+e outros gestores.
+
+Review < Retro < Daily < Planning < Refinamento
+
+(após o termino de uma Sprint, o refinamento acontece antes da retro e review)

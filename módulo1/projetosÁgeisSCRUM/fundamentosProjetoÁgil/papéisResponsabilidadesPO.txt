@@ -1,0 +1,29 @@
+PO: 
+Representa o profissional que tem a visão do que será desenvolvido, 
+as necessidades a serem atendidas, o público que vai utilizar e os objetivos
+a serem alcançados.
+
+---------------------------------------------------------------------------------
+
+Release Planning: Liberação ou lançamento de software
+
+É o lançamento de nova versão oficial de produto de software.
+Cada vez que um produto de software é criado ou modificado, o fabricante
+e seus devs decidem sobre como distribuir o novo produto ou a modificação
+às pessoas que o utilizam.
+
+Tipos
+
+Release Planning de Múltiplas Squads:
+
+Vários times agrupados, fazendo coisas distintas, podendo ter ou não correlação entre
+as atividades, e que no final da sprint devem ser agrupadas em uma única release, para
+serem lançadas para a produção.
+
+Release Planning de Projeto:
+
+PO possui uma demanda muito grande, devido ao fato de ter que dividir sua entrega em
+várias estórias e sprints. Ele precisa demonstrar Sênioridade, compreendendo o tamanho
+da real dimensão, da demanda, das estórias, e quebrá-las em partes o máximo
+que puder.
+---------------------------------------------------------------------------------
