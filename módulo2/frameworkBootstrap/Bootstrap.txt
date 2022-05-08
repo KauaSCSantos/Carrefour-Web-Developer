@@ -1,5 +1,0 @@
-Bootstrap:
-
-Framework de desenvolvimento de sites responsivos (sites multiplataformas)
-
-Possui vasta biblioteca de componentes que agilizam o desenvolvimento web, sendo usado para front-end.
