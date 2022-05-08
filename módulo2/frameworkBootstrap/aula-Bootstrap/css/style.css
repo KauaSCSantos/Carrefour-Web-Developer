@@ -1,0 +1,43 @@
+body {
+    font: 20px Helvetica, Arial;
+}
+
+.navbar {
+    background-color: #0D131F;
+}
+
+#quemsomos {
+    background-color: #4B98CE;
+    color: black;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+#parceiros {
+    background-color: #90CAF9;
+    color: black;
+}
+
+.navbar-brand {
+    background-color: aqua;
+    border-radius: 45% 20%;
+}
+
+.navbar-nav {
+    background-color: aqua;
+    border-radius: 10% 20% 10% 20%;
+    font-size: large;
+}
+
+.nav-link {
+    text-decoration: underline;
+    text-decoration-color: #9995AE;
+}
+
+.bg-footer {
+    background-color: #0D131F;
+    color: white;
+}
